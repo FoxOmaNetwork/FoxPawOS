@@ -48,5 +48,5 @@ def calculator():
             print("Неправильный выбор. Попробуй еще раз!")
 
 
-if __name__ == "__main__":
+def main():
     calculator()
